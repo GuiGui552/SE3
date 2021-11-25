@@ -1,0 +1,72 @@
+V0 0 Un drame au Mexique
+V1 1 Un drame dans les airs
+V2 2 Martin Paz
+V3 0 Maître Zacharius ou l'Horloger qui avait perdu son âme
+V4 1 Un hivernage dans les glaces
+V5 2 Cinq semaines en ballon
+V6 0 Les Aventures du capitaine Hatteras
+V7 1 Le Comte de Chanteleine
+V8 2 Voyage au centre de la Terre
+V9 0 De la Terre à la Lune
+V10 1 Les Forceurs de blocus
+V11 2 Les Enfants du capitaine Grant
+V12 0 Vingt mille lieues sous les mers
+V13 1 Autour de la Lune
+V14 2 Une ville flottante
+V15 0 Aventures de trois Russes et de trois Anglais dans l'Afrique australe
+V16 1 Une fantaisie du docteur Ox
+V17 2 Le Pays des fourrures
+V18 0 Le Tour du monde en quatre-vingts jours
+V19 1 24 minutes en ballon
+V20 2 L'Île mystérieuse
+V21 0 Le Chancellor
+V22 1 Une ville idéale
+V23 2 Michel Strogoff
+V24 0 Hector Servadac
+V25 1 Les Indes noires
+V26 2 Un capitaine de quinze ans
+V27 0 Les Cinq Cents Millions de la Bégum
+V28 1 Les Tribulations d'un Chinois en Chine
+V29 2 Les Révoltés de la Bounty
+V30 0 La Maison à vapeur
+V31 1 La Jangada
+V32 2 Dix heures en chasse
+V33 0 L'École des Robinsons
+V34 1 Le Rayon vert
+V35 2 Kéraban-le-Têtu
+V36 0 L'Étoile du sud
+V37 1 L'Archipel en feu
+V38 2 Frritt-Flacc
+V39 0 L'Épave du Cynthia
+V40 1 Mathias Sandorf
+V41 2 Un billet de loterie
+V42 0 Robur le Conquérant
+V43 1 Nord contre Sud
+V44 2 Gil Braltar
+V45 0 Le Chemin de France
+V46 1 Deux ans de vacances
+V47 2 Famille-Sans-Nom
+V48 0 La Journée d'un journaliste américain en 2889
+V49 1 Sans dessus dessous
+V50 2 César Cascabel
+V51 0 Mistress Branican
+V52 1 Aventures de la famille Raton
+V53 2 Le Château des Carpathes
+V54 0 Claudius Bombarnac
+V55 1 P'tit-Bonhomme
+V56 2 Monsieur Ré-Dièze et Mademoiselle Mi-Bémol
+V57 0 Mirifiques aventures de maître Antifer
+V58 1 L'Île à hélice
+V59 2 Face au drapeau
+V60 0 Clovis Dardentor
+V61 1 Le Sphinx des glaces
+V62 2 Le Superbe Orénoque
+V63 0 Le Testament d'un excentrique
+V64 1 Seconde patrie
+V65 2 Le Village aérien
+V66 0 Les Histoires de Jean-Marie Cabidoulin
+V67 1 Les Frères Kip
+V68 2 Bourses de voyage
+V69 0 Un drame en Livonie
+V70 1 Maître du monde
+V71 2 L'Invasion de la mer
